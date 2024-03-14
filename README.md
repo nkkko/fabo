@@ -68,13 +68,7 @@ If you have any questions, need assistance, or want to chat about FABO's feature
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use it, modify it, and have a blast with it!
 
-## Acknowledgements
-
-We want to express our gratitude to the creators and contributors of the following projects, which should be instrumental in the development of FABO:
-
-- [Bubble Tea](https://github.com/charmbracelet/bubbletea) - The quirky library used for building the CLI
-
 ## Note
 
-This is a work of fiction. Any similarity to actual events or persons, living or dead, is purely coincidental. FABO is a whimsical, imaginary character I dreamed up while attempting to capture screenshots of our milestones as we approached [4,000 stars with Daytona](https://github.com/daytonaio/daytona). Despite consistently failing at this task, our teammate [Fabo](https://github.com/fabjanvucina) always swooped in to save the day.
+This is a work of fiction. Any similarity to actual events or persons, living or dead, is purely coincidental. FABO is a whimsical, imaginary character I dreamed up while attempting to capture screenshots of our milestones as we approached [4,000 stars with Daytona](https://github.com/daytonaio/daytona). Despite consistently failing at this task, our teammate [Fabo](https://soundcloud.com/sckasturi/8-bit-rick-roll-but-drill) always swooped in to save the day.
 Who knows? Maybe our little FABO will even materialize at one point! God knows we all need FABO in our screen-shooting lives.
