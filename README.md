@@ -44,9 +44,9 @@
 
 ## About
 
-FABO is a quirky command-line interface (CLI) tool built with the [Bubble Tea](https://github.com/charmbracelet/bubbletea) library. It tracks various social media channels for milestone events, such as when your GitHub repository reaches those 1,000 shiny stars or your LinkedIn profile gets the first 100 followers. FABO automatically captures screenshots of these milestones, allowing you to celebrate and share your social media achievements easily and without fear of missing out.
+FABO is a quirky command-line interface (CLI) tool we wish to build with the [Bubble Tea](https://github.com/charmbracelet/bubbletea) library. It tracks various media channels for milestone events, such as when your GitHub repository reaches those 1,000 shiny stars or your LinkedIn profile gets the first 100 followers. FABO automatically captures screenshots of these milestones, allowing you to celebrate and share your social media achievements easily and without fear of missing out.
 
-While FABO is still in its early stages, we're working hard to bring you an exciting and feature-rich tool that will make tracking your social media milestones a breeze. We can't wait to share it with you all and see what cool ideas you have to make it even better!
+While FABO is still in its conception stages, we're working hard to bring you an exciting and feature-rich tool that will make tracking your milestone proofs a breeze. We can't wait to share it with you all and see what cool ideas you have to make it even better!
 
 ### Built With
 
@@ -63,11 +63,11 @@ We have an ambitious (and maybe a little quirky) roadmap planned for FABO, with 
 
 ## Contributing
 
-While FABO is still in its early stages, we welcome contributions from the community – the quirkier, the better! If you have a wild idea or a unique perspective to share, we'd love to hear it. Keep an eye on this repository for updates on when we'll officially open the doors for contributions.
+While FABO is still in its early stages, we welcome contributions from the community – the quirkier, the better! We'd love to hear if you have a wild idea or unique perspective to share. Keep an eye on this repository for updates.
 
 ## Support
 
-If you have any questions, need assistance, or just want to chat about FABO's quirky features, feel free to open an issue on this repository, and we'll be happy to lend an ear (or a pair of eyes, since it's a written conversation)!
+If you have any questions, need assistance, or want to chat about FABO's features, feel free to open an issue on this repository, and we'll be happy to lend an ear!
 
 ## License
 
@@ -75,11 +75,11 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use it, 
 
 ## Acknowledgements
 
-We would like to express our gratitude to the creators and contributors of the following projects, which have been instrumental in the development of FABO:
+We want to express our gratitude to the creators and contributors of the following projects, which should be instrumental in the development of FABO:
 
 - [Bubble Tea](https://github.com/charmbracelet/bubbletea) - The quirky library used for building the CLI
 
 ## Note
 
-This is a work of fiction. Any similarity to actual events or persons, living or dead, is purely coincidental. FABO is a quirky, imaginary creation meant to bring a smile to your face.
-Who knows? Maybe our little quirky project will even motivate you to create your own real-life achievement-tracking tool – just be sure to give us a shoutout if you do!
+This is a work of fiction. Any similarity to actual events or persons, living or dead, is purely coincidental. FABO is a whimsical, imaginary character I dreamed up while attempting to capture screenshots of our milestones as we approached [4,000 stars with Daytona](https://github.com/daytonaio/daytona). Despite consistently failing at this task, our teammate [Fabo](https://github.com/fabjanvucina) always swooped in to save the day.
+Who knows? Maybe our little FABO will even materialize at one point! God knows we all need FABO in our screen-shooting lives.
