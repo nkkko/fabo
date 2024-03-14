@@ -44,14 +44,9 @@
 
 ## About
 
-FABO is a quirky command-line interface (CLI) tool we wish to build with the [Bubble Tea](https://github.com/charmbracelet/bubbletea) library. It tracks various media channels for milestone events, such as when your GitHub repository reaches those 1,000 shiny stars or your LinkedIn profile gets the first 100 followers. FABO automatically captures screenshots of these milestones, allowing you to celebrate and share your social media achievements easily and without fear of missing out.
+FABO is a quirky command-line interface (CLI) tool we wish to build. It tracks various media channels for milestone events, such as when your GitHub repository reaches those 1,000 shiny stars or your LinkedIn profile gets the first 100 followers. FABO automatically captures screenshots of these milestones, allowing you to celebrate and share your social media achievements easily and without fear of missing out.
 
 While FABO is still in its conception stages, we're working hard to bring you an exciting and feature-rich tool that will make tracking your milestone proofs a breeze. We can't wait to share it with you all and see what cool ideas you have to make it even better!
-
-### Built With
-
-- [Go](https://golang.org/)
-- [Bubble Tea](https://github.com/charmbracelet/bubbletea)
 
 ## Getting Started
 
