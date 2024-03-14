@@ -52,7 +52,6 @@ While FABO is still in its early stages, we're working hard to bring you an exci
 
 - [Go](https://golang.org/)
 - [Bubble Tea](https://github.com/charmbracelet/bubbletea)
-- [TestingBattery](https://github.com/charmbracelet/testingbattery)
 
 ## Getting Started
 
@@ -79,4 +78,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use it, 
 We would like to express our gratitude to the creators and contributors of the following projects, which have been instrumental in the development of FABO:
 
 - [Bubble Tea](https://github.com/charmbracelet/bubbletea) - The quirky library used for building the CLI
-- [TestingBattery](https://github.com/charmbracelet/testingbattery) - Testing utilities for Bubble Tea applications (because even quirky projects need a little bit of discipline)
+
+## Note
+
+This is a work of fiction. Any similarity to actual events or persons, living or dead, is purely coincidental. FABO is a quirky, imaginary creation meant to bring a smile to your face.
+Who knows? Maybe our little quirky project will even motivate you to create your own real-life achievement-tracking tool – just be sure to give us a shoutout if you do!
