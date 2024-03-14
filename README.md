@@ -1,6 +1,6 @@
 <h1 align="center">
  <a href="https://github.com/nkkko/fabo">
-   <img src="assets/logo.png" alt="Logo" width="250" height="250">
+   <img src="logo.png" alt="Logo" width="250" height="250">
  </a>
 </h1>
 
