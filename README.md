@@ -72,3 +72,9 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use it, 
 
 This is a work of fiction. Any similarity to actual events or persons, living or dead, is purely coincidental. FABO is a whimsical, imaginary character I dreamed up while attempting to capture screenshots of our milestones as we approached [4,000 stars with Daytona](https://github.com/daytonaio/daytona). Despite consistently failing at this task, our teammate [Fabo](https://soundcloud.com/sckasturi/8-bit-rick-roll-but-drill) always swooped in to save the day.
 Who knows? Maybe our little FABO will even materialize at one point! God knows we all need FABO in our screen-shooting lives.
+
+## Getting started
+
+You can run and edit the algorithms or contribute to them using [Gitpod.io](https://www.gitpod.io/), a free online development environment, with a single click.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](http://gitpod.io/#https://github.com/TheAlgorithms/Jupyter)
